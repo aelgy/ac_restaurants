@@ -1,6 +1,6 @@
 # [Project: My Restaurant List] #
 
-![List.png](https://hackmd.io/_uploads/HJNfc8DXT.png)
+![List.png](https://github.com/aelgy/ac_restaurants/main/public/image/List.png)
 
 ## [Introduction] ##
 This project is key homework by Alpha Camp C3 M3. It's used Node.js to create local server first, then created simple restaurant list through Express and Handlebars.
