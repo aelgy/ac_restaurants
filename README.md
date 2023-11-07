@@ -1,18 +1,18 @@
-# [Project: My Restaurant List] #
+# [ Project: My Restaurant List ] #
 
 ![List.png](https://github.com/aelgy/ac_restaurants/blob/main/public/image/List.png) 
 
-## [Introduction] ##
+## [ Introduction ] ##
 This project is key homework by Alpha Camp C3 M3. It's used Node.js to create local server first, then created simple restaurant list through Express and Handlebars.
 
 
-### [Key Feature] ###
+## [ Key Feature ] ##
 * User can see all restaurants and its basic information like name, category and rating
 * User can click any restaurant and watch more detail like address, phone number and description.
 * user can search restaurant by input keyword, the system will match name, english name and category. The keyword isncase insensitive and ignore space too.
 
 
-## [How to use it] ##
+## [ How to use it ] ##
 1. Please ensure Node.js and npm already be installed in your computer
 2. You can clone the all project on your computer
 3. Open terminal and go to your folder, input below information to install npm. You can ignore it if you already have
@@ -32,7 +32,7 @@ http://localhost:3000
 crtl + c
 ``` 
 
-## [Tools] ##
+## [ Tools ] ##
 * Node.js 20.9.0
 * Express 4.18.2
 * Express.handlebars 7.1.2
